@@ -39,4 +39,4 @@ This project contains multiple sections which a resume should have with details 
 You can clone the repository
 
 ```
-git clone https://github.com/your-username/resume-html.git
+git clone https://github.com/ashishkumarsaini/resume-with-html.git
